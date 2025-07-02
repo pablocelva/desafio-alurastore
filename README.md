@@ -1,1 +1,2 @@
-# desafio-alurastore
+# Desafio - Alura Store
+Analisis de datos para tienda Alura Store
